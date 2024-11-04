@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Devitt 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blue" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=PrincxDevitto&color=blue" alt="Visitas al perfil"/>
 </p>
 
 ## 🌟 Sobre mí
