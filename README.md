@@ -27,8 +27,7 @@ Aquí te muestro las tecnologías con las que trabajo y tengo experiencia:
 
 Aquí algunos proyectos que he desarrollado y de los cuales me siento orgulloso:
 
-- **[Nombre del Proyecto](enlace a tu proyecto)**: Breve descripción del proyecto y su propósito.
-- **[Otro Proyecto](enlace a tu proyecto)**: Otra breve descripción de un proyecto relevante.
+
 
 ## 📈 Estadísticas de GitHub
 
