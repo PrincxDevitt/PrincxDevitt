@@ -37,4 +37,3 @@ Aquí algunos proyectos que he desarrollado y de los cuales me siento orgulloso:
 
 
 
-Gracias por visitar mi perfil.
